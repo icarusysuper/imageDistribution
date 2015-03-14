@@ -1,0 +1,5 @@
+exports.sign         = require './sign'
+exports.album        = require './album'
+exports.setting      = require './setting'
+exports.distribution = require './distribution'
+exports.user         = require './user'
