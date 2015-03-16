@@ -4,7 +4,7 @@
 imageDistribution是使用**Node.js**和**MongoDB**开发的后台系统。主要功能是，将加入同一个圈子
 的用户的所上传的图片实时分享到其他用户的客户端。
 
-## 使用的第三方资源
+## 使用的第三方服务
 
  1. 七牛云存储（http://www.qiniu.com/）
  2. 激光推送（https://www.jpush.cn/）
